@@ -7,11 +7,12 @@ body{
 }
 
 
-h1 {
+.titulo {
     text-align: center;
     font-size: 3.8rem;
 }
 
-span {
+.titulo span {
     font-size: 2rem;
 }
+
